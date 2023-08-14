@@ -33,7 +33,7 @@ docutils==0.14
 editdistance==0.4
 entrypoints==0.2.3
 flaky==3.4.0
-Flask==0.12.1
+Flask==2.2.5
 Flask-Cors==3.0.3
 future==0.16.0
 gast==0.2.0
